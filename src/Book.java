@@ -13,7 +13,7 @@ public class Book {
     public Author getAuthor() {
         return author;
     }
-    public int getYearPublishing() {
+     public int getYearPublishing() {
         return yearPublishing;
     }
     public void setYearPublishing(int yearPublishing) {
