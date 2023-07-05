@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Author joan = new Author("Джоан", "Роулинг");
+        Author joan = new Author("Джоан", "Pоулинг");
         Book harryPotter = new Book ("Гарри Поттер", joan , 1997);
         Author london = new Author("Джек", "Лондон");
         Book loveOflive = new Book("Любовь к жизни", london, 1905);

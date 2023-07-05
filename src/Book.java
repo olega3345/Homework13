@@ -30,4 +30,3 @@ public class Book {
         return java.util.Objects.hash(title);
     }
 }
-
